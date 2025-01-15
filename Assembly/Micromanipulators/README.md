@@ -1,7 +1,7 @@
 HemoLens Micromanipulator
 ======
 
-A low-cost micromanipulator for precise, 3-axis movement of vessel scaffolds
+A low-cost micromanipulator for precise, 3-axis movement of vessel scaffolds.
 
 ## Building the VasoTracker Pressure Monitor:
 
