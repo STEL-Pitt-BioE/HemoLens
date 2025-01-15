@@ -1,4 +1,4 @@
-VasoTracker
+HemoLens
 ======
 <img src="https://github.com/kaelome/VasoTracker/blob/master/Splash.gif" width="400" align="right">
 
