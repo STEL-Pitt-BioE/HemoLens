@@ -1,25 +1,14 @@
 HemoLens
 ======
-<img src="https://github.com/kaelome/VasoTracker/blob/master/Splash.gif" width="400" align="right">
 
-An open source pressure myograph system and diameter tracking software for assessing vascular reactivity.
-
-Pressure myographs are used to assess blood vessel function. Both smooth muscle cell contraction and relaxation can be assayed using the pressure myograph.
-
-Commercial pressure myograph systems are expensive. Rather than buy one, we prefered to build our own, taking advantage of open-source technologies and cheap off-the-shelf components. 
-
-If you want to build your own myograph system, or simply want to try our software with an existing system, give VasoTracker a try. Its cheap (well its free) and it works.
+An open source pressure myograph system and cardiac flow simulator for comprehensive mechanical evaluation of native and tissue engineered blood vessels. 
 
 ## Paper
-A paper describing the system in full, and demonstrating its use for studying vascular activity will hopefully be published in the very near future. We will place a link to the paper here: DOI:[10.3389/fphys.2019.00099](https://www.frontiersin.org/articles/10.3389/fphys.2019.00099/full)
+Our paper describing this work will be available soon on arXiv. Check back soon!
 
 # Contributors:
-**University of Strathclyde:**
+**University of Pittsburgh:**
 * Calum Wilson
 * Matthew D Lee
 * John G McCarron
 
-**University of Durham:**
-* Penelope F Lawton
-* Christopher D Saunter
-* John G Girkin
