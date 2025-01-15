@@ -5,10 +5,3 @@ An open source pressure myograph system and cardiac flow simulator for comprehen
 
 ## Paper
 Our paper describing this work will be available soon on arXiv. Check back soon!
-
-# Contributors:
-**University of Pittsburgh:**
-* Calum Wilson
-* Matthew D Lee
-* John G McCarron
-
