@@ -5,7 +5,7 @@
 
 HemoLens is an **open source** pressure myograph system and cardiac flow simulator for mechanical evaluation of native and tissue engineered blood vessels under static and dynamic pressures. 
 
-Our platform offers a comprehensive, open-source pacakge for industry-standard vasculature research. We've achieved this all in a package costing under $500, ~1% the cost of commercial systems.
+Our platform offers a comprehensive, open-source pacakge for industry-standard vasculature research. We've achieved this all for under $500, ~1% the cost of commercial systems.
 
 This platform was developed at the University of Pittsburgh's Shiwarski Tissue Engineerng Laboratory (STEL). You can find our lab [here.](https://shiwarskilab.com/)
 
