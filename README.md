@@ -5,3 +5,5 @@ An open source pressure myograph system and cardiac flow simulator for mechanica
 
 ## Paper
 Our preprint describing this work will be available soon on arXiv. Check back in the near future!
+
+https://andrew1492.autodesk360.com/g/shares/SH286ddQT78850c0d8a4ab926256a7c2b0b3
