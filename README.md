@@ -9,8 +9,8 @@ Our platform offers a comprehensive, open-source pacakge for industry-standard v
 
 This platform was developed at the University of Pittsburgh's Shiwarski Tissue Engineerng Laboratory (STEL). You can find our lab [here.](https://shiwarskilab.com/)
 
-## Paper
-Our preprint describing this work will be **available soon** on arXiv. Check back in the near future!
+## Paper[
+https://www.sciencedirect.com/science/article/abs/pii/S2666998625003096
 
 ## Interactive Model
 You can find an **online assembly file** [here.](https://andrew1492.autodesk360.com/g/shares/SH286ddQT78850c0d8a4ab926256a7c2b0b3)
